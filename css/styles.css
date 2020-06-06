@@ -68,7 +68,7 @@ input[type=text] {
 
 @media screen and (max-width: 520px) {
   #add-item{
-    margin-left: 5%;
+    margin-left: 0px;
   }
   label{
     margin-right: 0px;
@@ -77,6 +77,6 @@ input[type=text] {
     margin-left: 5px;
   }
   .item{
-    margin-left: 5%;
+    margin-left: 0px;
   }
 }
