@@ -67,6 +67,10 @@ input[type=text] {
 }
 
 @media screen and (max-width: 480px) {
+  #add-itme{
+    text-align: right;
+    margin-left: 10%;
+  }
   .row{
       display: flex;
       margin-bottom: 10px;
