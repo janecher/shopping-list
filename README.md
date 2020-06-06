@@ -10,13 +10,14 @@ Shopping list web application. You can add, remove or modify your shopping list.
 
 ## Setup/Installation Requirements
 
-* Clone the files from the repository
-* Double click on the shopping_list.html file 
-* see the result in your browser
+* Use the link: https://janecher.github.io/shopping-list/index.html
+* Clone/download the files from the repository
+* Double click on the index.html file
+* See the result in your browser
 
 ## Technologies Used
 
-* HTML, CSS, JavaScript
+* HTML, CSS, JavaScript, Bootstrap
 
 ### License
 
