@@ -67,8 +67,7 @@ input[type=text] {
 }
 
 @media screen and (max-width: 480px) {
-  #add-itme{
-    text-align: right;
+  #add-item{
     margin-left: 10px;
   }
   .item{
