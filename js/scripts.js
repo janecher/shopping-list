@@ -25,14 +25,14 @@ window.onload = function(){
       //create button change
       let buttonChange = document.createElement('button');
       buttonChange.textContent = "Change";
-      buttonChange.className = "btn btn-primary";
+      buttonChange.className = "btn";
       buttonChange.type = "button";
       row.appendChild(buttonChange);
 
       //create button delete
       let buttonDelete = document.createElement('button');
       buttonDelete.textContent = "Delete";
-      buttonDelete.className = "btn btn-primary";
+      buttonDelete.className = "btn";
       buttonDelete.type ="button";
       row.appendChild(buttonDelete);
 

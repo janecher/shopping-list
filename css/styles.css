@@ -9,12 +9,11 @@ h1{
 }
 
 .header{
-  background-color: #b3cce6;
+  background-color: #e6ccb3;
   height: 100px;
   overflow: auto;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #006699;
   margin-bottom: 30px;
 }
 
@@ -25,11 +24,12 @@ h1{
 
 label{
   margin-right: 10px;
-  color:#006699;
 }
 
-button{
+.btn{
   margin-left: 10px;
+  background-color: #e6ccb3;
+  border: 2px solid #bf7d40;
 }
 
 .row{
@@ -38,7 +38,7 @@ button{
 
 .item{
   float: left;
-  border: 1px solid #006699;
+  border: 1px solid #e6ccb3;
   border-radius: 4px;
   width: 50%;
   height: 35px;
@@ -49,7 +49,7 @@ button{
 }
 
 input[type=text] {
-  border: 2px solid #006699;
+  border: 2px solid #e6ccb3;
   border-radius: 4px;
   width: 40%;
   height: 40px;
