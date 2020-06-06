@@ -71,10 +71,10 @@ input[type=text] {
     margin-left: 5%;
   }
   label{
-    margin-right: 0;
+    margin-right: 0px;
   }
   .btn{
-    margin-left: 3px;
+    margin-left: 5px;
   }
   .item{
     margin-left: 5%;
